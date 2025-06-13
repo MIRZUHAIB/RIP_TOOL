@@ -7,8 +7,5 @@
 
 ```bash
 git clone https://github.com/MIRZUHAIB/RIP_TOOL.git
-
 cd RIP_TOOL
-
-
 python rip_tool.py
